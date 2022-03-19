@@ -1,0 +1,2 @@
+# backstopjs-app
+backstop
